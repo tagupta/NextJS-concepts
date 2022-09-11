@@ -1,7 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## This repository can help anybody who's looking to get a deeper idea about nextJS functions:
+```
+getStaticProps()
+getStaticPaths()
+getServerSideProps()
+```
+Along with the combination of `pre-renderig` and `client side pre-fetching`.
+
+
 
 ## Getting Started
-
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 First, run the development server:
 
 ```bash
